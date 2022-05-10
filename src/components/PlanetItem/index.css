@@ -1,0 +1,23 @@
+.planet-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 400px;
+  height: 250px;
+}
+.image-name {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+.description {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 18px;
+  max-width: 800px;
+}
